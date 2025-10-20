@@ -30,9 +30,7 @@ Currently, I’m exploring:
 ### 📷 My Setup
 
 <p align="center">
-  <img src="<img width="1921" height="1081" alt="image" src="https://github.com/user-attachments/assets/300d18b5-163f-4405-880d-09f376527081" />
-" />
-" alt="My Linux setup" width="600"/>
+  <img width="1921" height="1081" alt="image" src="https://github.com/user-attachments/assets/1c4be32d-c44c-4d21-baa1-0630ff9ebb0a" />
   <br>
   <em>Arch Linux • Hyprland • Minimal aesthetic • user of 4-end dots</em>
 </p>
