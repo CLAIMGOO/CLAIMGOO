@@ -50,7 +50,7 @@ Currently, I’m exploring:
 ### 🗨️ Connect with Me
 
 <p align="center">
-  <a href="https://discord.com/users/936608138424107068" target="_blank">
+  <a href="https://discord.com/users/" target="_blank">
     <img src="https://img.shields.io/badge/Discord-%40mini%20gost-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord Profile"/>
   </a>
 </p>
