@@ -60,7 +60,7 @@ Currently, I’m exploring:
 
 ### 🧩 Quote
 
-> “he world is a network. Silent, merciless. Only those who adapt survive... or those who break the system”  
+> “The world is a network. Silent, merciless. Only those who adapt survive... or those who break the system”  
 > — Killy
 
 ---
