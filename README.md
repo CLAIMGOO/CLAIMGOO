@@ -15,6 +15,7 @@ Currently, I’m exploring:
 - ⚙️ Automating repetitive security tasks with Python
 - 🧩 Custom setups on **Arch Linux** (btw)
 - 🛠️ Building lightweight, fast, and beautiful environments
+- 🟢 fan of BLAME! mangа
 
 ---
 
@@ -49,29 +50,18 @@ Currently, I’m exploring:
 ### 🗨️ Connect with Me
 
 <p align="center">
-  <a href="https://discord.gg/your-invite">
-    <img src="https://img.shields.io/badge/Discord-Join%20Me-5865F2?style=for-the-badge&logo=discord&logoColor=white"/>
-  </a>
-  <a href="mailto:your.email@example.com">
-    <img src="https://img.shields.io/badge/Email-Contact%20Me-FF4B4B?style=for-the-badge&logo=gmail&logoColor=white"/>
+  <a href="https://discord.com/users/936608138424107068" target="_blank">
+    <img src="https://img.shields.io/badge/Discord-%40mini%20gost-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord Profile"/>
   </a>
 </p>
 
----
-
-### ⚡ Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=<your-username>&show_icons=true&theme=tokyonight" alt="GitHub Stats" width="45%"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=<your-username>&theme=tokyonight" alt="GitHub Streak" width="45%"/>
-</p>
 
 ---
 
 ### 🧩 Quote
 
-> “The quieter you become, the more you can hear.”  
-> — Ram Dass
+> “he world is a network. Silent, merciless. Only those who adapt survive... or those who break the system”  
+> — Killy
 
 ---
 
